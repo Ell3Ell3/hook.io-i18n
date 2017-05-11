@@ -1,0 +1,54 @@
+{
+	"Hello": "Ciao",
+	"Hello %s, how are you today?": "Ciao %s, Come stai oggi?",
+	"weekend": "weekend",
+	"Hello %s, how are you today? How was your %s.": "Ciao %s, Come stai oggi? How was your %s.",
+	"Hi": "Ciao",
+	"Howdy": "Salve",
+	"%s cat": {
+		"one": "%s gatto",
+		"other": "%s gatti"
+	},
+	"cat": {
+		"one": "%s gatto",
+		"other": "%s gatti"
+	},
+	"nested": {
+		"deep": {
+			"plural": {
+				"one": "prurale",
+				"other": "prurali"
+			}
+		}
+	},
+	"There is one monkey in the %%s": {
+		"one": "C'è una scimmia sul %%s",
+		"other": "Ci sono %d scimmie sul %%s"
+	},
+	"tree": "Albero",
+	"There is one monkey in the %s": {
+		"one": "C'è una scimmia sopra %s",
+		"other": "Ci sono %d scimmie sopra %s"
+	},
+	"Hello %s": "Ciao %s",
+	"Hello {{name}}": "Ciao {{name}}",
+	"Hello {{name}}, how was your %s?": "Ciao {{name}}, how was your %s?",
+	"format": {
+		"date": "DD/MM/YYYY",
+		"time": "h:mm:ss a"
+	},
+	"greeting": {
+		"formal": "Buongiorno",
+		"informal": "Ciao",
+		"placeholder": {
+			"formal": "Buongiorno %s",
+			"informal": "Ciao %s",
+			"loud": "greeting.placeholder.loud"
+		}
+	},
+	"nested.deep.plural": {
+		"one": "nested.deep.plural",
+		"other": 1
+	},
+	"Greetings": "Saluti"
+}
